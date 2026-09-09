@@ -238,3 +238,6 @@ This repository serves as the official landing page for Softros LAN Messenger. T
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Softros LAN Messenger today!**
+
+---
+**Last updated:** 2026-09-09 13:24:26 UTC
